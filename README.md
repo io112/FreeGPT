@@ -15,10 +15,7 @@ Experience the power of ChatGPT with a user-friendly interface, enhanced jailbre
 The project is hosted on multiple platforms to be tested and modified.
 |Platform|Status|API Key|Free|Repo|Demo|
 |--|--|--|--|--|--|
-|[replit](https://replit.com/)|![Active](https://img.shields.io/badge/Active-brightgreen)|◼️|☑️|[FreeGPT WebUI](https://replit.com/@ramonvc/freegpt-webui)|[Chat](https://freegpt-webui.ramonvc.repl.co/chat/)
-|[hugging face](https://huggingface.co)|![Active](https://img.shields.io/badge/Active-brightgreen)|◼️|☑️|[FreeGPT WebUI](https://huggingface.co/spaces/monra/freegpt-webui/tree/main)|[Chat](https://huggingface.co/spaces/monra/freegpt-webui)
-|[replit](https://replit.com/)|![Active](https://img.shields.io/badge/Active-brightgreen)|☑️|☑️|[FreeGPT WebUI - Naga Version](https://replit.com/@ramonvc/freegpt-webui-chimera)|[Chat](https://freegpt-webui-chimera.ramonvc.repl.co/chat/)
-|[hugging face](https://huggingface.co)|![Active](https://img.shields.io/badge/Active-brightgreen)|☑️|☑️|[FreeGPT WebUI - Naga Version](https://huggingface.co/spaces/monra/freegpt-webui-chimera/tree/main)|[Chat](https://huggingface.co/spaces/monra/freegpt-webui-chimera)
+|[replit](https://replit.com/)|![Active](https://img.shields.io/badge/Active-brightgreen)|◼️|☑️|[FreeGPT WebUI](https://replit.com/@DmitryParamono1/FreeGPT)|[Chat](https://replit.com/@DmitryParamono1/FreeGPT/)
 
 ## Table of Contents  
 - [To-Do List](#to-do-list-%EF%B8%8F)  
@@ -42,7 +39,7 @@ To get started with this project, you'll need to clone the repository and have [
 Run the following command to clone the repository:  
 
 ```
-git clone https://github.com/ramonvc/freegpt-webui.git
+git clone https://github.com/io112/FreeGPT.git
 ```
 
 ### Install Dependencies :wrench: 
