@@ -1,7 +1,7 @@
-from g4f.active_providers import get_active_model_providers
+from g4f.models import ModelUtils
 
-working_providers = get_active_model_providers()
+working_providers = ModelUtils.convert
 
 print("\nWorking providers by model:")
-for model, providers in working_providers.items():
-    print(f"{model}: {', '.join(providers)}")
+for model, provider in working_providers.items():
+    print(f"{model}: {provider.name}")

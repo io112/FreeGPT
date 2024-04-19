@@ -1,8 +1,8 @@
 models = {
     'gpt-3.5-turbo',
-    'gpt-3.5-turbo-16k-0613',
-    'gpt-3.5-turbo-16k',
-    'gpt-4',
+    # 'gpt-3.5-turbo-16k-0613',
+    # 'gpt-3.5-turbo-16k',
+    # 'gpt-4',
 }
 
 special_instructions = {

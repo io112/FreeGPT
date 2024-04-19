@@ -93,23 +93,23 @@
 						<div class="buttons">
 							<div class="field">
 								<select class="dropdown" name="model" id="model">
-									<option value="gpt-3.5-turbo">GPT-3.5</option>
-									<option value="gpt-3.5-turbo-16k">GPT-3.5-turbo-16k</option>
-									<option value="gpt-4" selected>GPT-4</option>
+									<option value="gpt-3.5-turbo" selected>GPT-3.5</option>
+{#									<option value="gpt-3.5-turbo-16k">GPT-3.5-turbo-16k</option>#}
+{#									<option value="gpt-4" selected>GPT-4</option>#}
 								</select>
 							</div>
 							<div class="field">
 								<select class="dropdown" name="jailbreak" id="jailbreak">
 									<option value="default" selected>{{_('Default')}}</option>
-									<option value="gpt-dan-11.0">{{_('DAN')}}</option>
-									<option value="gpt-evil">{{_('Evil')}}</option>
+{#									<option value="gpt-dan-11.0">{{_('DAN')}}</option>#}
+{#									<option value="gpt-evil">{{_('Evil')}}</option>#}
 								</select>
 							</div>
 						</div>
-						<div class="field checkbox">
-							<input type="checkbox" id="switch" />
+						<div class="field checkbox"  style="display: none;">
+							<input type="checkbox" id="switch" hidden/>
 							<label for="switch"></label>
-							<span>{{_('Web Access')}}</span>
+{#							<span>{{_('Web Access')}}</span>#}
 						</div>
 					</div>
 				</div>
